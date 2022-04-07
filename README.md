@@ -15,3 +15,4 @@ TODO-List:
 * Redesign the cijfer berekenen page
 * Easter egg
 * Simplify the code!
+* Fix drag events
